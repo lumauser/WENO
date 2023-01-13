@@ -1,1 +1,1 @@
-alert("weno beeno chicken deeno")
+alert("Goofy ahh alert")
