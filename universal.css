@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+}
+#navbar {
+  background-image: url(""); /* You need to select a background for this navbar, or this will look fairly odd */
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+#linav {
+  float: left;
+}
+#anav {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+#anav:hover {
+  color: white;
+}
+.active {
+  text-decoration: underline;
+}
