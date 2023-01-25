@@ -1,8 +1,11 @@
 body {
   text-align: center;
+  background-image: url("paper.gif");
+  background-repeat: repeat;
 }
 #navbar {
-  background-image: url(""); /* You need to select a background for this navbar, or this will look fairly odd */
+  background-image: url("Resources/background.gif"); /* You need to select a background for this navbar, or this will look fairly odd */
+  background-repeat: repeat-x;
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -24,3 +27,4 @@ body {
 .active {
   text-decoration: underline;
 }
+
