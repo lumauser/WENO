@@ -6,7 +6,6 @@ body {
 
 #navbar {
   background-image: url("Resources/background.gif"); /* You need to select a background for this navbar, or this will look fairly odd */
-
   background-repeat: repeat-x;
   list-style-type: none;
   margin: 0;
