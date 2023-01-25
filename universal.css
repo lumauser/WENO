@@ -3,17 +3,21 @@ body {
   background-image: url("Resources/background.jpeg");
   background-repeat: repeat;
 }
+
 #navbar {
-  background-image: url("Resources/background.jpeg"); /* You need to select a background for this navbar, or this will look fairly odd */
+  background-image: url("Resources/background.gif"); /* You need to select a background for this navbar, or this will look fairly odd */
+
   background-repeat: repeat-x;
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
 }
+
 #linav {
   float: left;
 }
+
 #anav {
   display: block;
   color: black;
@@ -27,3 +31,4 @@ body {
 .active {
   text-decoration: underline;
 }
+
