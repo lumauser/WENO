@@ -1,5 +1,2 @@
-# idk
-This is some website that I am going to make to try out Github and vscode. idk
-
-Developer: lumauser
-Contributers: dacoder101
+# WENO
+This is a troll website that I just made for fun. I hope you enjoy!
